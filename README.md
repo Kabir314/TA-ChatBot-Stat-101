@@ -2,7 +2,7 @@
 
 This project demonstrates how to run a local Large Language Model (LLM) and customize it into a teaching assistant that supports students in a college-level statistics course.
 
-## 🔧 Prerequisites
+## Prerequisites
 - Python 3.10+
 - Git
 - A modern GPU (or CPU with patience)
