@@ -10,15 +10,15 @@ This project demonstrates how to run a local Large Language Model (LLM) and cust
 
 ## Installation
 
-### 1. Clone the Web UI
+### 1. Install Requirements
+```bash
+py -m pip install -r requirements.txt
+```
+
+### 2. Clone the Web UI
 ```bash
 git clone https://github.com/oobabooga/text-generation-webui.git
 cd text-generation-webui
-```
-
-### 2. Install Requirements
-```bash
-py -m pip install -r requirements.txt
 ```
 
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
