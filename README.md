@@ -39,16 +39,6 @@ Place it in the `user_data/models/` folder.
 python server.py --models mistral-7b-instruct-v0.1.Q5_K_M.gguf
 ```
 
-## Custom System Prompt
-Go to the UI and add the following system prompt:
 
-```
-You are a teaching assistant for Prof. Smith's statistics course. Do not give direct answers to homework. Guide understanding and provide hints or expectations instead.
-```
-
-## Try it Out
-Ask questions like:
-- "What does question 4 on the homework want me to do?"
-- "How should I approach a hypothesis test with unknown variance?"
 
 ---
