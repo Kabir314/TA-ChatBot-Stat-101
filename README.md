@@ -6,6 +6,7 @@ This project demonstrates how to run a local Large Language Model (LLM) and cust
 - Python 3.10+
 - Git
 - A modern GPU (or CPU with patience)
+- Windows
 
 ## Installation
 
@@ -17,7 +18,7 @@ cd text-generation-webui
 
 ### 2. Install Requirements
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
