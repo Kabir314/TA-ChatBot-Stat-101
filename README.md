@@ -28,7 +28,7 @@ Place it in the `models/` folder.
 
 ### 4. Launch the Web UI
 ```bash
-python server.py --model mistral-7b-instruct-v0.1.Q4_K_M.gguf
+python server.py --models mistral-7b-instruct-v0.1.Q4_K_M.gguf
 ```
 
 ## Custom System Prompt
