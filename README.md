@@ -24,7 +24,7 @@ cd text-generation-webui
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
 Go to https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF and download a `.gguf` file.
 
-Place it in the `models/` folder.
+Place it in the `user_data/models/` folder.
 
 ### 4. Launch the Web UI
 ```bash
