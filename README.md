@@ -21,6 +21,13 @@ git clone https://github.com/oobabooga/text-generation-webui.git
 cd text-generation-webui
 py -m pip install -r requirements\full\requirements.txt
 ```
+#### 2.5 For MacOS and Linux
+Go to https://github.com/oobabooga/text-generation-webui and follow the installiion instructions. 
+
+```bash
+git clone https://github.com/oobabooga/text-generation-webui.git
+start_windows.bat
+```
 
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
 Go to https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF and download a `.gguf` file. Specifically V0.1 Q5_K_M
