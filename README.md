@@ -19,6 +19,7 @@ py -m pip install -r requirements.txt
 ```bash
 git clone https://github.com/oobabooga/text-generation-webui.git
 cd text-generation-webui
+py -m pip install -r requirements\full\requirements.txt
 ```
 
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
