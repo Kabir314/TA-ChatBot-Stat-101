@@ -23,7 +23,7 @@ py -m pip install -r requirements\full\requirements.txt
 ```
 
 ### 3. Download a Model (e.g., Mistral 7B in GGUF format)
-Go to https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF and download a `.gguf` file.
+Go to https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF and download a `.gguf` file. Specifically V0.1 Q5_K_M
 
 Place it in the `user_data/models/` folder.
 
