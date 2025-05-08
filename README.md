@@ -36,7 +36,7 @@ Place it in the `user_data/models/` folder.
 
 ### 4. Launch the Web UI
 ```bash
-python server.py --models mistral-7b-instruct-v0.1.Q5_K_M.gguf
+py server.py --model mistral-7b-instruct-v0.1.Q5_K_M.gguf
 ```
 
 
