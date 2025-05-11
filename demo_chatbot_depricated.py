@@ -1,3 +1,6 @@
+## This file is depricated please refer to the console_chatbot python files
+
+
 import os
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
