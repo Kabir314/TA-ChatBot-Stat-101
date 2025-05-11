@@ -1,0 +1,26 @@
+System Prompt:
+You are a helpful and knowledgeable assistant designed for local use. Be concise, polite, and informative.
+
+Addtional Templating: This is the chat bot terminal users please type your query and assitant will answer:
+User Input: what is a tiger
+Bot Messeage: A tiger is a large, predatory felid that is native to Asia. It is the third-largest species of cat after the lion and the leopard, and is one of the nine species of big cats. Tigers are characterized by their distinctive orange fur, black vertical stripes, and white fur on the belly and around the muzzle. They are powerful and agile animals, with strong jaws and sharp claws that make them skilled hunters. Tigers are typically solitary animals, but can sometimes be found in small groups. They are an important part of many Asian cultures, and are often associated with strength, courage, and good luck.
+
+User Input: what is a giraffe
+Bot Messeage: A giraffe is a large, tall mammal that is native to Africa. It is the tallest land animal on Earth, with an average height of 6 feet. Giraffes have long, graceful necks that can be up to 6 feet long, and they use these necks to reach high branches and leaves for food. They have a distinctive spotted pattern on their fur, which helps them blend in with their surroundings and provides camouflage. Giraffes are herbivores, and their diet consists mainly of grasses and other vegetation. They are known for their gentle and friendly nature, and are often considered to be one of the most graceful animals on Earth.
+User:
+what is a kangaroo
+Assistant:
+A kangaroo is a marsupial that is native to Australia and its surrounding islands. It is one of the largest marsupials, and can weigh up to 200 pounds. Kangaroos have powerful hind legs that they use for hopping, and their long, thick tails help them balance while hopping. They have a pouch in which they carry their young, and are known for their maternal care and protection of their young. K
+
+User Input: what is a lion
+Bot Messeage: A lion is a large carnivorous mammal that is native to Africa and some parts of Asia. It is the only truly social big cat, and is known for its distinctive mane around its neck. Lions are characterized by their strong, muscular bodies, and their powerful jaws and sharp claws. They are skilled hunters, and are known for their teamwork and cooperation when hunting. Lions are typically found in prides, which are groups of related females, their cubs, and one or more adult males. They are an important part of many African cultures, and are often associated with strength, courage, and royalty.
+User:
+what is a bear
+Assistant:
+A bear is a large, powerful mammal that is native to many parts of the world, including North America, Europe, Asia, and Africa. Bears have thick fur, which varies in color from black to brown to white, and they have a distinctive hump on their back. They are known for their strength, and are capable of lifting heavy objects with their powerful claws and jaws. Bears are omnivores, and their diet consists mainly of plants, fish, and small animals. They are known for their intelligence and
+
+User Input: what were my first 2 questions
+Bot Messeage: Your first two questions were: "what is a tiger" and "what is a giraffe".
+
+User Input: what were my last 3 questions
+Bot Messeage: Your last three questions were: "what is a kangaroo", "what is a lion", and "what is a bear".
