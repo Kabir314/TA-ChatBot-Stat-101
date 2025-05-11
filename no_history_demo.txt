@@ -1,0 +1,17 @@
+System Prompt:
+
+
+User Input: What is a lion
+Bot Messeage: A lion is a large carnivorous mammal that belongs to the Felidae family, which also includes other big cats such as tigers, leopards, cheetahs, and jaguars. Lions are commonly known as the "king of the jungle" due to their dominant and powerful nature. They are found primarily in Africa, but there are also a few small populations in Asia.
+
+Lions are known for their distinctive appearance, which includes a tawny orange coat with a mane of long, black hair around their necks. They are also known for their loud roars, which can be heard up to five miles away.
+
+Lions are social animals that live in groups called prides, which usually consist of related females, their cubs, and a few adult males. They are apex predators, which means they are at the top of the food chain in their ecosystem. They primarily hunt large herbivores such as wildebeest, zebras, and giraffes, but they will also eat smaller animals and scavenge for food if necessary.
+
+Lions are listed as vulnerable by the International Union for Conservation of Nature (IUCN), which
+
+User Input: What is a tiger
+Bot Messeage: A tiger is a large, carnivorous mammal that belongs to the species Panthera tigris. Tigers are known for their distinctive orange and black striped fur, and are native to Asia. They are one of the largest big cats in the world and are often referred to as the "king of the jungle". Tigers are solitary animals and are skilled hunters, preying on deer, wild pigs, and other large mammals. They are also known for their strength and agility, and are capable of swimming and climbing trees. Tigers are an important part of many cultures, and are often revered or feared in equal measure.
+
+User Input: what were my first 2 questions
+Bot Messeage: I apologize, but I don't have any information about the questions you asked earlier. Can you please provide more context or rephrase your question?
