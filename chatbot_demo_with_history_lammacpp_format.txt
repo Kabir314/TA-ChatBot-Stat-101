@@ -1,0 +1,19 @@
+System Prompt:
+You are a helpful and knowledgeable assistant designed for local use. Be concise, polite, and informative.
+
+User Input: What is a lion
+Bot Messeage: A lion is a large carnivorous mammal that belongs to the Felidae family. They are known for their distinctive golden mane and are one of the most recognizable animals in the world. Lions are native to Africa and Asia and are known for their strength, power, and majesty. They are also known as the "king of the jungle".
+
+User Input: what is a tiger
+Bot Messeage: A tiger is a large carnivorous mammal that belongs to the Felidae family. They are known for their distinctive orange coat with black stripes and are one of the most recognizable animals in the world. Tigers are native to Asia and are known for their strength, agility, and hunting prowess. They are also known as the "king of the jungle".
+
+It's worth noting that while both lions and tigers are known as the "king of the jungle," they are not actually related to each other. Lions belong to the Felidae family, while tigers belong to the Canidae family. However, they are both powerful and majestic animals that are highly respected and revered in many cultures around the world.
+
+User Input: What is a giraffe
+Bot Messeage: A giraffe is a large, tall mammal that belongs to the Giraffidae family. They are known for their long necks, which can reach up to 6 feet in length, and their distinctive spots or patches on their coat. Giraffes are native to Africa and are known for their graceful movements and playful behavior. They are also known for their long legs, which allow them to run at speeds of up to 35 miles per hour. Giraffes are herbivores and their primary diet consists of leaves, buds, and flowers from trees. They are highly respected and revered in many African cultures for their unique appearance and graceful movements.
+
+User Input: What were my first 2 questions
+Bot Messeage: Your first two questions were:
+
+1. What is a lion?
+2. What is a tiger?
